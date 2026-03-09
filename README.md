@@ -1,87 +1,150 @@
 # Hi, I'm Manpreet 👋
 
-Frontend developer passionate about building clean, interactive interfaces and scalable UI systems.
+💻 Frontend Developer • Curious Learner • Building Systems Step by Step
 
 🌐 Portfolio: https://dreamyportfolio.netlify.app/
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I focus on building **intentional user interfaces** rather than simple static pages.
+I enjoy exploring **technology, programming, and how systems work behind the scenes**.
 
-My work emphasizes:
+Instead of rushing through tutorials, I focus on **understanding concepts deeply** and improving steadily through practice, projects, and documenting what I learn.
 
-• Component-driven architecture
-• Clean, maintainable UI systems
-• Thoughtful interaction design
-• Real-world frontend engineering practices
+My learning process is simple:
 
-I enjoy creating interfaces that **feel like systems**, not just websites.
+* Learn the concept
+* Build something with it
+* Document the understanding
+* Improve the system over time
 
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-
-React
-Next
-JavaScript (ES6+)
-TypeScript
-HTML5
-CSS3
-CSS Modules
-Responsive Design
-
-**Tools**
-
-Git
-GitHub
-VS Code
-Netlify
-Render
+This approach helps me turn curiosity into **real technical skills**.
 
 ---
 
-## 📌 Featured Project
+# 🧠 Learning Philosophy
 
-### Dreamy Portfolio
+I believe strong foundations matter more than quick results.
 
-An interactive **desktop-style portfolio interface** designed to behave like a small operating system rather than a traditional webpage.
+Right now I'm focused on:
 
-Features:
+* Strengthening **mathematical and logical thinking**
+* Building **real coding projects**
+* Improving **React and frontend architecture**
+* Understanding **development workflows with Git and GitHub**
 
-• OS-style window system
-• Icon-based navigation
-• Data-driven project architecture
-• Motion-safe animations
-• Responsive layout
+Even short focused sessions add up over time.
 
-Live Site
+**Consistency > Intensity**
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
+* Java (DSA)
+* C++
+* C#
+* C
+* Python
+
+## Core Computer Science
+
+* Data Structures & Algorithms
+* Problem Solving
+* Object-Oriented Programming (OOP)
+* Operating Systems
+* Low-Level Design
+* Debugging
+
+## Frontend
+
+* React
+* Next.js
+* Svelte
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* CSS Modules
+
+## Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Authentication & Authorization
+
+## Databases
+
+* MySQL
+* MongoDB
+
+## Tools & Workflow
+
+* Git
+* GitHub
+* VS Code
+* Netlify
+* Render
+* Hoppscotch
+* Postman
+
+---
+
+# 📌 Featured Project
+
+## Dreamy Portfolio
+
+An interactive **desktop-style developer portfolio** designed to behave like a small operating system rather than a traditional website.
+
+Key ideas behind the project:
+
+* Component-driven architecture
+* OS-style window interactions
+* Icon-based navigation system
+* Data-driven project structure
+* Motion-safe animations
+
+🔗 Live Site
 https://dreamyportfolio.netlify.app/
 
 ---
 
-## 📚 Currently Learning
+# 📚 Current Focus
 
-Improving my skills in:
+Right now I'm improving my skills in:
 
-• Advanced React architecture
-• UI system design
-• Performance optimization
-• Animation systems
+* Advanced React patterns
+* UI system design
+* Frontend architecture
+* Mathematical problem solving
 
 ---
 
-## 📫 Connect With Me
+# 📈 My Approach
 
-Portfolio
+I enjoy:
+
+* Breaking down complex concepts
+* Documenting what I learn
+* Building projects from scratch
+* Improving systems gradually
+
+Learning is not a race — it's a process of **continuous refinement**.
+
+---
+
+# 📫 Connect With Me
+
+🌐 Portfolio
 https://dreamyportfolio.netlify.app/
 
-GitHub
-https://github.com/YOUR_USERNAME
+💻 GitHub
+https://github.com/Manpreet109209
 
 ---
 
-⭐ Always learning and building.
+⭐ Always learning, building, and improving.

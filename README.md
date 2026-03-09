@@ -1,6 +1,6 @@
 # Hi, I'm Manpreet 👋
 
-💻 Frontend Developer • Curious Learner • Building Systems Step by Step
+💻 Software Engineering Student • Curious Learner • Building Systems Step by Step
 
 🌐 Portfolio: https://dreamyportfolio.netlify.app/
 
